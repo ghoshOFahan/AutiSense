@@ -5,6 +5,7 @@
 [![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-Web-blue)](https://onnxruntime.ai/)
 [![AWS](https://img.shields.io/badge/AWS-Bedrock%20%7C%20Polly%20%7C%20DynamoDB-FF9900?logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![gitcgr](https://gitcgr.com/badge/ghoshOFahan/AutiSense.svg)](https://gitcgr.com/ghoshOFahan/AutiSense)
 
 > **Privacy-first, browser-based autism screening powered by on-device AI.**
 
